@@ -45,7 +45,7 @@ def print_analysis(obj):
 Третий квартиль = {d[uqua]}\n\
 Межквартильный размах = {d[rqua]}\n\
 Ассиметрия = {d[skewness]}\n\
-Куртоз = {d[kurtosis]}\n\
+Куртосис = {d[kurtosis]}\n\
 Коэффициент вариации = {d[cvar]}\n\
 Сумма = {d[sum]}\n\
 	'.format(d=obj)
